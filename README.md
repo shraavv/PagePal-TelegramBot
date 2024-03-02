@@ -1,1 +1,1 @@
-# PagePal-TelegramBot
+# PagePal - Your compainion book bot
