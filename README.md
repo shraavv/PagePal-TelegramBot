@@ -6,7 +6,7 @@ As a programmer, help _Gopal_ in uniting him with his _PagePal!_
 
 Create a book recommendation telegram bot that displays a list of books with details like Book title, author, description, year published (originally), language and preview (if available) when the user types in the genre of the book they want to read. 
 
-Feel free to customize your PagePal!
+Feel free to customize your PagePal with more features!
 
 # Primary Features
 
