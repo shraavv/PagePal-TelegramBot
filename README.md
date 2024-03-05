@@ -17,7 +17,7 @@ Feel free to customize your PagePal with more features ;)
   - ```/help``` returns the list of commands with their description
   - ```/preview``` asks the user for the book name for which they need preview link
 - When the ```/book``` command is typed in, the user is asked to enter the genre name, upon which the user types in the name and the bot returns a CSV file with different book names. The CSV file should have different columns for each detail.
-- When the ```/preview``` command is typed in, the user is asked to enter the book name, upon which it redirects us to the preview link
+- When the ```/preview``` command is typed in, the user is asked to enter the book name, upon which it redirects us to the preview link.
 
 # Resources
 
