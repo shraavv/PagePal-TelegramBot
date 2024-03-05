@@ -6,7 +6,7 @@ As a programmer, help _Gopal_ in uniting him with his _PagePal!_
 
 Create a book recommendation telegram bot that displays a list of books with details like Book title, author, description, year published (originally), language and preview (if available) when the user types in the genre of the book they want to read. 
 
-Feel free to customize your PagePal with more features!
+Feel free to customize your PagePal with more features ;)
 
 # Primary Features
 
@@ -15,7 +15,9 @@ Feel free to customize your PagePal with more features!
   - ```/start``` returns a welcome message to the user
   - ```/book``` asks the user to type in the genre
   - ```/help``` returns the list of commands with their description
+  - ```/preview``` asks the user for the book name for which they need preview link
 - When the ```/book``` command is typed in, the user is asked to enter the genre name, upon which the user types in the name and the bot returns a CSV file with different book names. The CSV file should have different columns for each detail.
+- When the ```/preview``` command is typed in, the user is asked to enter the book name, upon which it redirects us to the preview link
 
 # Resources
 
