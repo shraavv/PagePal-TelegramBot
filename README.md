@@ -21,6 +21,6 @@ Feel free to customize your PagePal with more features ;)
 
 # Resources
 
-The following resourcses will help if you are clueluess about where to start.
+The following resources will help if you are clueless about where to start.
 - [Telegram Bot Tutorial](https://core.telegram.org/bots/tutorial#introduction)
 - [Google Books API](https://developers.google.com/books/docs/v1/using)
