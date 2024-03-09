@@ -1,6 +1,6 @@
 # Gopal and his PagePal
 
-Meet Gopal, a book enthusiast who has great passion for reading books. He ran into trouble trying to locate his favourite books, which led to him coming up with an idea of creating a chatbot which would assist him by recommending a list of books with the necessary details. Unfortunately, Gopal's lack of programming skills proved a significant obstacle in making his "PagePal" a reality.
+Meet Gopal, a book enthusiast who has a great passion for reading books. He ran into trouble trying to locate his favourite books, which led to him coming up with an idea of creating a chatbot which would assist him by recommending a list of books with the necessary details. Unfortunately, Gopal's lack of programming skills proved a significant obstacle in making his "PagePal" a reality.
 
 As a programmer, help Gopal in uniting him with his PagePal!
 
