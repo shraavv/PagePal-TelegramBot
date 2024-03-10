@@ -16,7 +16,7 @@ Feel free to customise your PagePal with more features ;)
   - ```/start``` returns a welcome message to the user
   - ```/book``` asks the user to type in the genre
   - ```/preview``` asks the user for the book name for which they need preview link
-  - ```/list``` asks the user for the book name which they want to add to their reading list
+  - ```/list``` asks the user for the book name which they want to add or delete from their reading list
   - ```/reading_list``` allows user to add a book, delete a book or view their reading list
   - ```/help``` returns the list of commands with their description
 - When the ```/book``` command is typed in, the user is asked to enter the genre name, upon which the user types in the name and the bot returns a CSV file with different book names and their details. The CSV file should have different columns for each detail.
